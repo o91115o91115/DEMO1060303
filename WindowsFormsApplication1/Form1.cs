@@ -20,10 +20,10 @@ namespace WindowsFormsApplication1
         private void Form1_Load(object sender, EventArgs e)
         {
             //fix
-            method();
+            method2();
         }
         
-        prinate void method()
+        prinate void method2()
         {
         }
     }
