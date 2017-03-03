@@ -23,8 +23,9 @@ namespace WindowsFormsApplication1
             method();
         }
         
-        prinate void method()
+        public void method()
         {
+            int a = 123;
         }
     }
 }
